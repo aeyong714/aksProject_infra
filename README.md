@@ -192,11 +192,9 @@ kubectl port-forward --namespace monitoring svc/grafana 3000:80
 
 <br>
    
-> [모니터링 화면]  
-> <br>
->![alt text](image.png)  
-> [snapshot]
-> http://localhost:3000/dashboard/snapshot/E8M73W79L8zIcp4l4A5WTE17d0LiSMz5
+[모니터링 화면]
+
+![alt text](image.png)  
 
 <br>
 
